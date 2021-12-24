@@ -42,4 +42,14 @@ function min(a, b) {
 ```
 ***********************
 
+### Education
+
+* Udmurt State University
+    + International Relationship
+* Stepik
+    + [Data Analysis](https://stepik.org/course/73952/syllabus)
+* JavaScript Manual on learnjavascript.ru (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+***********************
 
