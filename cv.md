@@ -53,3 +53,8 @@ function min(a, b) {
 
 ***********************
 
+### Languages
+
+* __English__ - Intermediate
+* __Russian__ - Native
+* __Spanish__ - Basic
